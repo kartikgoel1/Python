@@ -1,1 +1,1 @@
-
+print("Goodnight World")
